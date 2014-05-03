@@ -2,7 +2,7 @@
 
 [Three.js](http://threejs.org)
 [Meteor](http://meteor.com)
-[Atmosphere](https://atmosphere.meteor.com/)
+[Atmosphere](https://atmospherejs.com/)
 
 ## How to install 
 1. `npm install -g meteorite` (if not already installed)
